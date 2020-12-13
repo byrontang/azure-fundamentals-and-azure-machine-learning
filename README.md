@@ -1,2 +1,4 @@
 # azure-machine-learning
-Notes for learning Azure Machine Learning and preparing for the certification
+Notes taken when learning Azure architecture and Azure Machine Learning SDK in Python in preparation of the certifications:
+- Microsoft Certified Azure Fundamentals
+- Microsoft Certified Azure Data Scientist Associate 
